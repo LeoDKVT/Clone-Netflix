@@ -16,6 +16,23 @@ body {
 
 }
 
+/*responsidade do site*/
+@media screen and (max-width:700px) {
+    .container-header {
+        display: flex;
+        flex-direction: column;
+    }
+    .botao {
+        width: 250px;
+    }
+}
+
+@media screen and (min-width: 1000px) {
+    .container .descricao {
+        width: 40%;
+    }
+}
+
 .container-header {
     display: flex;
     align-items: center;
@@ -84,3 +101,10 @@ header nav a:hover {
 .botao i {
     margin-right: 5px;
 }
+
+.box-filme {
+    height: 100%;
+    width: 100%;
+    display: block;
+}
+
