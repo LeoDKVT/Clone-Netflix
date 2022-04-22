@@ -9,6 +9,17 @@
     box-sizing: border-box;
 }
 
+
+@font-face {
+    font-family: 'netflix-normal' ;
+    src: url(netflix-sans-font/NetflixSans-Regular.otf);
+}
+
+@font-face {
+    font-family: 'netflix-bold' ;
+    src: url(netflix-sans-font/NetflixSans-Bold.otf);
+}
+
 body {
     background-color: var(--preto);
     font-family: 'Times New Roman', Times, serif;
@@ -33,6 +44,7 @@ body {
     }
 }
 
+/*menu*/
 .container-header {
     display: flex;
     align-items: center;
@@ -48,7 +60,7 @@ header nav a {
     text-decoration: none;
     color: #aaa;
     margin-right: 10px;
-
+    font-family: 'netflix-normal';
 }
 
 header nav a:hover {
@@ -62,22 +74,22 @@ header nav a:hover {
     height: 500px;
     background-size: cover;
     background-position: center center;
-
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;    
-
 }
 
 .titulo {
     font-size: 2.2em;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'netflix-bold';
     margin-top: 10%;
     margin-left: 10px;
 }
 
 .descricao {
+    font-family: 'netflix-normal';
+    font-size: 0.9em;
     margin: 10px 0 40px 10px;
     width: 70%;
 }
@@ -88,6 +100,7 @@ header nav a:hover {
     border: none;
     padding: 15px 30px;
     margin: 1px 10px;
+    font-family: 'netflix-normal';
     font-size: 12px;
     cursor: pointer;
     transition: .3s;
@@ -102,9 +115,14 @@ header nav a:hover {
     margin-right: 5px;
 }
 
+/*filmes e series*/
 .box-filme {
     height: 100%;
     width: 100%;
     display: block;
+}
+
+.carrosel-filmes {
+    margin-top: 5px;
 }
 
