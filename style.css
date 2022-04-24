@@ -1,8 +1,3 @@
-:root {
-    --vermelho: #E50914;
-    --preto: #141414;
-}
-
 * {
     margin: 0;
     padding: 0;
@@ -21,7 +16,7 @@
 }
 
 body {
-    background-color: var(--preto);
+    background-color: #141414;
     font-family: 'Times New Roman', Times, serif;
     color: white;
 
@@ -116,7 +111,7 @@ header nav a:hover {
 }
 
 /*filmes e series*/
-.box-filme {
+.box-fs {
     height: 100%;
     width: 100%;
     display: block;
