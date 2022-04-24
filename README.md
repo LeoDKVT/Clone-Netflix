@@ -29,12 +29,14 @@ Acesse a página do projeto clicando [aqui](https://julianasinnott.github.io/net
 
 ## Atividades :pencil::
 
-° Colocar links no Header.
+:heavy_check_mark: ~~Colocar links no iniciar.~~
 
-° Colocar mais imagens.
+:heavy_check_mark: ~~Colocar mais imagens.~~
 
-° Fazer uma área só de filmes.
+:heavy_check_mark: ~~Fazer uma área só de filmes.~~
 
-° Fazer uma área só de Séries.
+:heavy_check_mark: ~~Fazer uma área só de Séries.~~
+
+:heavy_check_mark: ~~Fazer uma área só de Documentários.~~
 
 ° Futuramente irei continuar trabalhando nele para agregar mais conhecimento que irei aprender.
