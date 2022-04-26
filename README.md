@@ -10,7 +10,7 @@ A proposta do projeto era criar uma replica da página inicial do Netflix com as
 - Estilização com CSS puro e jQuery, design desktop e mobile responsivo
 - Funcionalidades do carrossel com jQuery
 
-Acesse a página do projeto clicando [aqui](https://julianasinnott.github.io/netflix-clone/). Este site foi construído usando [GitHub Pages](https://pages.github.com/).
+Acesse a página do projeto clicando [aqui](https://leodkvt.github.io/Clone-Netflix/). Este site foi construído usando [GitHub Pages](https://pages.github.com/).
 
 <h2> Linguagens utilizadas: </h2>
 
