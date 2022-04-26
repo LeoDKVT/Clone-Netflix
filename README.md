@@ -29,14 +29,14 @@ Acesse a página do projeto clicando [aqui](https://leodkvt.github.io/Clone-Netf
 
 ## Atividades :pencil::
 
-:heavy_check_mark: ~~Colocar links no iniciar.~~
+- [:heavy_check_mark:] ~~Colocar links no iniciar.~~
 
-:heavy_check_mark: ~~Colocar mais imagens.~~
+- [:heavy_check_mark:] ~~Colocar mais imagens.~~
 
-:heavy_check_mark: ~~Fazer uma área só de filmes.~~
+- [:heavy_check_mark:] ~~Fazer uma área só de filmes.~~
 
-:heavy_check_mark: ~~Fazer uma área só de Séries.~~
+- [:heavy_check_mark:] ~~Fazer uma área só de Séries.~~
 
-:heavy_check_mark: ~~Fazer uma área só de Documentários.~~
+- [:heavy_check_mark:] ~~Fazer uma área só de Documentários.~~
 
-° Futuramente irei continuar trabalhando nele para agregar mais conhecimento que irei aprender.
+- [:hourglass:] Futuramente irei continuar trabalhando nele para agregar mais conhecimento que irei aprender.
